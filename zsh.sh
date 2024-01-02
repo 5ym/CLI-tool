@@ -1,5 +1,8 @@
 #!/bin/sh
 
+# firstly install font
+# https://github.com/romkatv/powerlevel10k?tab=readme-ov-file#manual-font-installation
+
 # setup zsh
 sudo apt install -y zsh curl git
 chsh -s $(which zsh)
