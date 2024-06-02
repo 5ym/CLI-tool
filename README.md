@@ -1,4 +1,4 @@
-# CLI-tool
+# shell-script
 
 便利なシェルスクリプト等置き場
 
